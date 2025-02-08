@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: url('images/college.jpg') no-repeat center center/cover;
+    padding: 150px 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
